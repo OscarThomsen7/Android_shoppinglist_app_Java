@@ -1,1 +1,1 @@
-Android checklist app in Java
+Android shoppinglist app in Java
